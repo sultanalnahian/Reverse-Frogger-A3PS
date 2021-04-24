@@ -2,6 +2,7 @@
 Prerequisites:
 1. Python 3.6
 2. ml-agent-0.8.1
+3. pytorch 1.2.0
 
 ml-agents-0.8.1 download link:
 https://github.com/Unity-Technologies/ml-agents/tree/0.8.1
