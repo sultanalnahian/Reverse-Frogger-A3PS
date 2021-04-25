@@ -1,5 +1,5 @@
 # Reverse-Frogger-A3PS
-This repository is the implementation of "[Influencing Reinforcement Learning through Natural Language Guidance]"(https://arxiv.org/abs/2104.01506)
+This repository is the implementation of [Influencing Reinforcement Learning through Natural Language Guidance](https://arxiv.org/abs/2104.01506)
 
 # Prerequisites:
 1. Python 3.6
