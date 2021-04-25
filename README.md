@@ -4,10 +4,13 @@ This repository represents the implementation of [Influencing Reinforcement Lear
 ## Prerequisites:
 1. Python 3.6
 2. pytorch 1.2.0
-3. **ml-agent-0.8.1**:
+3. **ml-agent-0.8.1:**
 
 ml-agents-0.8.1 download link:
 https://github.com/Unity-Technologies/ml-agents/tree/0.8.1
 
-ml-agents-0.8.1 setup requirements: 
+After downloading, install ml-agents-0.8.1 following the section **"Installing mlagents"** in the link: 
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md
+
+Some setup requirements for mlagents could be found: 
 https://github.com/Unity-Technologies/ml-agents/blob/9602a8bef9f389964b1f5c1002217d02af54d191/ml-agents-envs/setup.py#L24
