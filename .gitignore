@@ -1,5 +1,5 @@
 #ignore mypy cache file
 .mypy_cache
 .vs_code
-.__pycache__
+__pycache__
 .ipynb_checkpoints
