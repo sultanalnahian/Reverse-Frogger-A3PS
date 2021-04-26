@@ -1,0 +1,2 @@
+#ignore mypy cache file
+..mypy_cache
