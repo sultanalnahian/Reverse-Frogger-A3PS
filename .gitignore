@@ -1,2 +1,3 @@
 #ignore mypy cache file
-..mypy_cache
+.mypy_cache
+.vs_code
