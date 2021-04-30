@@ -2,9 +2,10 @@
 This repository represents the implementation of [Influencing Reinforcement Learning through Natural Language Guidance](https://arxiv.org/abs/2104.01506). 
 
 ## Prerequisites:
-1. Python 3.6
-2. pytorch 1.2.0
-3. **ml-agent-0.8.1:**
+1. Windows 10
+2. Python 3.6
+3. pytorch 1.2.0
+4. **ml-agent-0.8.1:**
 
 ml-agents-0.8.1 download link:
 https://github.com/Unity-Technologies/ml-agents/tree/0.8.1
@@ -19,8 +20,12 @@ https://github.com/Unity-Technologies/ml-agents/blob/9602a8bef9f389964b1f5c10022
 After installing mlagents in ml-agents-0.8.1 folder, all codes from the **"ml-agents-0.8.1"** folder of the repo should be put inside of it.*ppo_rl_frogger.py* represents the coding for **Experience Driven agent** and *ppo+advice_rl_frog_max.py* is the code for A3PS architecture. The **"Advice generator"** folder contains the code for **Advice Driven agent**. 
  
  ## Training:
+ As an example game environment, you can download the game from the link: https://drive.google.com/file/d/1eRX32aOssgBPYm2YOcXxAknP23XaHUe5/view?usp=sharing
+ 
+ The downloaded windows build  is required to be put inside the ml-agents-0.8.1 folder. 
+ 
  To train the agent, run: 
  ```console
 $ python ppo+advice_rl_frog_max.py
 ```
- $ python ppo+advice_rl_frog_max.py
+ 
